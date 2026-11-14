@@ -21,7 +21,7 @@ Antes de programar trabajé más de 10 años en la industria alimentaria y en sa
 ## 🚀 Proyectos destacados
 
 ### [Latin Zumi](https://github.com/Latin-Zumi/latin-zumi-front) · Proyecto final grupal de Henry
-Billetera virtual multimoneda (ARS, COP, USD y EUR): depósitos, transferencias entre usuarios, cambio de moneda e historial, con panel de administración y asistente virtual. Hice la mayor parte del front-end.
+Billetera virtual multimoneda (ARS, COP, USD y EUR): depósitos, transferencias entre usuarios, cambio de moneda e historial, con panel de administración y asistente virtual. Proyecto de un equipo de cuatro; mi rol fue el front-end.
 `React` `TypeScript` `Tailwind CSS` `Vitest` `Node.js` `Express` `PostgreSQL` · [Ver demo](https://latin-zumi-front-1x4s.vercel.app)
 
 ### [KairoShop](https://github.com/caceresdiegoleonel1986/ProyectoM5_CaceresDiego)
