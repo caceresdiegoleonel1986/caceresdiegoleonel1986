@@ -1,6 +1,6 @@
 # Hola, soy Diego Caceres 👋
 
-**Full Stack Developer Jr** · React · TypeScript · Node.js
+**Full Stack Developer Jr** · React · TypeScript · Node.js<br>
 📍 Villa María, Córdoba, Argentina
 
 Me formé como Full Stack Developer en **Henry** (más de 700 horas) y me enfoco en el front-end con React y TypeScript, sin dejar de lado el backend con Node.js, Express y PostgreSQL.
