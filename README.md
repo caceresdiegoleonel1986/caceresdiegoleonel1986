@@ -37,4 +37,4 @@ App para organizar tareas con prioridades, fechas de vencimiento, agenda, inicio
 Estoy buscando mi primera posición como desarrollador front-end o full stack. Si tenés una propuesta o querés charlar sobre un proyecto, escribime:
 
 - LinkedIn: [linkedin.com/in/diego-leonel-caceres](https://www.linkedin.com/in/diego-leonel-caceres/)
-- Email: caceresdiegol@outlook.com
+- Email: caceresdiegoleonel@gmail.com
