@@ -7,6 +7,8 @@ Me formé como Full Stack Developer en **Henry** (más de 700 horas) y me enfoco
 
 Antes de programar trabajé más de 10 años en la industria alimentaria y en salud, como Jefe de Producción y Jefe de Enfermería. Ahí aprendí a coordinar equipos, organizar turnos y trabajar con protocolos estrictos de calidad. Hoy aplico ese mismo orden al código: priorizo, testeo y documento lo que hago.
 
+🎓 **Formación:** Full Stack Developer en Henry (+700 h) · JavaScript desde cero y Programación con IA en EDteam
+
 ## 🛠️ Stack
 
 | Área | Tecnologías |
